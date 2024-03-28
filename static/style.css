@@ -1,0 +1,31 @@
+.home {
+    background-color: rgb(255, 251, 193);
+    height: 350px;
+    padding-top: 120px;
+}
+
+section{
+    min-height: 450px;
+}
+
+.container .me {
+    width: 250px;
+}
+
+.container .about {
+    padding-top: 150px;
+    text-align: justify;
+}
+
+.box {
+    background-color: rgb(255, 251, 193);
+    height: 100px;
+    margin-bottom: 60px;
+}
+
+footer {
+    background-color: rgb(255, 251, 193);
+    margin-top: 20px;
+    font-weight: bold;
+    padding-top: 10px;
+}
